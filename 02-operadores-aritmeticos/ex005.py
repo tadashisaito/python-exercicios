@@ -1,5 +1,5 @@
 """
-Exercício – Antecessor e sucessor
+Exercício 05 – Antecessor e sucessor
 
 Programa que lê um número inteiro e mostra
 seu antecessor e seu sucessor.
